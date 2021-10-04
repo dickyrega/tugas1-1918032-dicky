@@ -1,0 +1,2 @@
+rootProject.name = "pertemuan1_intent"
+include ':app'
