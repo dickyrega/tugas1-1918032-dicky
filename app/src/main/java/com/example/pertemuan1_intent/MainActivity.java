@@ -20,5 +20,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(a);
     }
 
+    public void segitiga(View view){
+        Intent a = new Intent(MainActivity.this,
+                segitiga.class);
+        startActivity(a);
+    }
 
 }
